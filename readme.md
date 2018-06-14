@@ -1,5 +1,6 @@
-deployed to:
-https://catch-of-the-day-react.now.sh
+**Deployed to:**
+1. https://catch-of-the-day-react.now.sh
+1. http://dazzling-wright-24be49.netlify.com
 
 ![](http://wes.io/dgAQ/content)
 
